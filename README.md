@@ -17,7 +17,3 @@ This project is a professional-grade **Retrieval-Augmented Generation (RAG)** sy
 - **Embeddings:** OpenAI Text-Embeddings-3-small
 - **Language:** Python 3.10+
 
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
